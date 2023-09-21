@@ -1,4 +1,4 @@
-import FiltersView                from './view/filters-view';
+import FiltersView from './view/filters-view';
 import { render, RenderPosition } from './render';
 import BoardPresenter from './presenter/board-presenter';
 import TripInfoViews from './view/trip-info-views';
